@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/leopard-webform/static/css/main.79366ce4.chunk.css",
+    "main.js": "/leopard-webform/static/js/main.7acfff27.chunk.js",
+    "main.js.map": "/leopard-webform/static/js/main.7acfff27.chunk.js.map",
+    "runtime-main.js": "/leopard-webform/static/js/runtime-main.58d9681b.js",
+    "runtime-main.js.map": "/leopard-webform/static/js/runtime-main.58d9681b.js.map",
+    "static/js/2.e45d10bd.chunk.js": "/leopard-webform/static/js/2.e45d10bd.chunk.js",
+    "static/js/2.e45d10bd.chunk.js.map": "/leopard-webform/static/js/2.e45d10bd.chunk.js.map",
+    "index.html": "/leopard-webform/index.html",
+    "static/css/main.79366ce4.chunk.css.map": "/leopard-webform/static/css/main.79366ce4.chunk.css.map",
+    "static/js/2.e45d10bd.chunk.js.LICENSE.txt": "/leopard-webform/static/js/2.e45d10bd.chunk.js.LICENSE.txt",
+    "static/media/btc_logo_transparent.57f0b06b.png": "/leopard-webform/static/media/btc_logo_transparent.57f0b06b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d9681b.js",
+    "static/js/2.e45d10bd.chunk.js",
+    "static/css/main.79366ce4.chunk.css",
+    "static/js/main.7acfff27.chunk.js"
+  ]
+}
